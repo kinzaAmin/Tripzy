@@ -19,7 +19,7 @@ const Slider1 = () => {
       <div className="  z-10 ">
         <Slider {...setting}>
           <div className="md:w-full  yatch_sliderImg relative mt-10 ml-0 bg-right  bg-cover bg-no-repeat ">
-            <div className="  p-64 ">
+            <div className="  md:p-64">
               <div className="w-24 md:mt-[-20%] mt-[-80%] md:ml-[40%] ml-[-70%] ">
                 <Image
                   src="/Images/Frame.svg"

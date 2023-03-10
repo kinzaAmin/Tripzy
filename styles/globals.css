@@ -39,7 +39,7 @@
 .slick-dots {
   top: 510px;  
   left: 1200px;
- /* background-color: aqua; */
+
  width: 6% !important;
  height: 30px;
   /* font-size: 10px; */
@@ -47,71 +47,6 @@
   position: absolute;
 }
 
-/* .react-datetime-picker__wrapper{
-  background-color: yellow;
-} */
-/* .react-datetime-picker__inputGroup{
-  background-color: brown;
-  display: flex;
-  margin-bottom:0% ;
- padding: 8px;
- width: 300px;
-} */
-/* .react-datetime-picker__inputGroup__input {
- background-color: orangered;
- 
- 
-} */
-/* .react-datetime-picker__inputGroup__year:focus{
-  width: 55px !important;
-  text-align: center;
-outline: none;
-} */
-/* .react-datetime-picker__inputGroup__day{
-  width: 40px !important;
-   text-align: center;
-} */
-/* .react-datetime-picker__inputGroup__month{
-  width: 50px !important;
-   text-align: center;
-} */
-/* .react-datetime-picker__inputGroup__hour{
- width:36px !important;
-  text-align: center;
-} */
-/* .react-datetime-picker__inputGroup__minute{
- width: 40px !important;
-} */
-
-
-/* .react-datetime-picker__clear-button {
-  display: none;
-} */
-/* .react-calendar{
-  background-color: aqua;
-  margin-left: 40% !important;
-  margin-top: -34% !important;
-  z-index: 50;
-  position: relative;
-  /* box-shadow: inset; */
-/* } */ */
-/* .react-datetime-picker__calendar-button {
-  background-color: blue;
-  margin-left: 80%;
-  /* z-index: 5%;
-  margin-bottom: 5%; */
-  
-  /* margin-bottom: 8%; */
-/* } */ */
-
-/* .__inputGroup__day{
-  width: 60px !important;
-}
-.__inputGroup__year{
-  width:30px;
-
-  background-color: blue !important;
-} */
 
 .rc-time-picker-input{
   width: 60px !important;
@@ -124,8 +59,3 @@ outline: none;
 .rc-time-picker-clear-icon{
 display: none;
 }
-/* @media only screen and (min-width: 768px) {
- span.btntext {
-  display: hidden;
- }
-} */
